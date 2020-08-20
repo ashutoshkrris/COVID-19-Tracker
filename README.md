@@ -4,9 +4,9 @@ A COVID-19 Tracker App built using Flutter.
 
 ## Working Demo
 
-![COVID-19 App](https://github.com/ashutoshkrris/COVID-19-Tracker/demo/app.gif)
+![COVID-19 App](https://github.com/ashutoshkrris/COVID-19-Tracker/blob/master/demo/app.gif)
 
-* You can download the app from [here](https://github.com/ashutoshkrris/COVID-19-Tracker/demo/app.apk)
+* You can download the app from [here](https://github.com/ashutoshkrris/COVID-19-Tracker/blob/master/demo/app.apk)
 
 ## Getting Started
 
